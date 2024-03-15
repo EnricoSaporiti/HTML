@@ -1,3 +1,5 @@
 "use strict"
 
-console.log("hello world");
+console.log(3+5);
+
+console.log(7*3);
